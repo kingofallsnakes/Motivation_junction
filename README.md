@@ -20,7 +20,7 @@ This is a Kivy application designed to inspire users with personalized messages 
 1. Clone this repository:
 
    ```bash
-   git clone https://https://docs.github.com/articles/cloning-a-repository<kingofallsnakes>/Motivation_junction.git
+   git clone https://github.com/kingofallsnakes/Motivation_junction.git
    ```
 
 2. Navigate to the project directory:
