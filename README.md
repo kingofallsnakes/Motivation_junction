@@ -51,6 +51,11 @@ The `Motivation_junction` class is the core of the application. It inherits from
     * Selects a motivational message and background color combination based on the numerology value (using modulo operator).
     * Updates the `Label` widget with the chosen message and background color.
 
+### Interface and Output
+
+![Output 1](https://github.com/kingofallsnakes/Motivation_junction/assets/153209531/4b67e87c-47ba-423c-a2fe-bc6b990c146c)
+![Output 2](https://github.com/kingofallsnakes/Motivation_junction/assets/153209531/8b756772-cd58-47b2-911c-e319dc2dfe0c)
+
 **Customization**
 
 * You can modify the motivational messages and their corresponding color combinations in the `responses` and `background_colors` lists within the `generate_message` method.
